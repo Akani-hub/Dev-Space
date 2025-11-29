@@ -16,10 +16,6 @@
 </html>
 
 
-** end of undefined **
-
-** start of undefined **
-
 body {
     font-family: Arial, sans-serif;
     text-align: center;
@@ -40,9 +36,7 @@ button {
     font-weight: bold;
 }
 
-** end of undefined **
 
-** start of undefined **
 
 document.getElementById("check-btn").addEventListener("click", function() {
     const input = document.getElementById("text-input").value;
@@ -63,5 +57,5 @@ document.getElementById("check-btn").addEventListener("click", function() {
     }
 });
 
-** end of undefined **
+
 
